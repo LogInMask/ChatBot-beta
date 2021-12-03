@@ -17,6 +17,6 @@ This program will be ended early in 20.03.2022!
 But you can test my beta or pre-reliase versions.
 
 I very tired and happy!
-I believe you like this program!
+I hope you like this program!
 
 Bye!
