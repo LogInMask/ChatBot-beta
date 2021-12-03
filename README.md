@@ -6,10 +6,10 @@ In this program i did first beta-version of ChatBot
 
 # What is ChatBot?
 
-ChatBot is easy bot and we can speak with him!
+ChatBot is easy bot, and we can speak with him!
 
-ChatBot v1.0 has to be enable in console mod but
-version 2.0 needs to be enable in window-mode!
+ChatBot v1.0 has to be enable in console mode, but
+version 2.0 has to be enable in window-mode!
 
 # When is ChatBot was officially ended and enabled?
 
