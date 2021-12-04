@@ -19,4 +19,3 @@ But you can test my beta or pre-reliase versions.
 I very tired and happy!
 I hope you like this program!
 
-Bye!
