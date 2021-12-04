@@ -47,7 +47,7 @@ if prg == "Yes" or "yes":
             sleep(3)
             exit()
 
-    if prg == "No" or "no":
-        print("Ok, then bye!")
-        sleep(3)
-        exit()
+if prg == "No" or "no":
+    print("Ok, then bye!")
+    sleep(3)
+    exit()
