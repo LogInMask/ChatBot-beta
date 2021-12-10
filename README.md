@@ -20,11 +20,17 @@ But you can test my beta or pre-reliase versions.
 You need to write this commands in termux:
 
 apt update -y && apt upgrade -y
+
 pkg install git
+
 pkg install python3
+
 git clone https://github.com/LogInMask/ChatBot-beta
+
 cd ChatBot-beta
+
 cd ChatBotForAndroid
+
 python3 ChatBot.py
 
 That's all!
