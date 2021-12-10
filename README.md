@@ -16,6 +16,19 @@ version 2.0 has to be enable in window-mode!
 This program will be ended early in 20.03.2022!
 But you can test my beta or pre-reliase versions.
 
+# Android install
+You need to write this commands in termux:
+
+apt update -y && apt upgrade -y
+pkg install git
+pkg install python3
+git clone https://github.com/LogInMask/ChatBot-beta
+cd ChatBot-beta
+cd ChatBotForAndroid
+python3 ChatBot.py
+
+That's all!
+
 I very tired and happy!
 I hope you like this program!
 
