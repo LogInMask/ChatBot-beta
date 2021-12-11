@@ -30,13 +30,13 @@ apt update -y && apt upgrade -y
 
 pkg install git
 
-$ pkg install python3
+@ pkg install python3
 
-*git clone https://github.com/LogInMask/ChatBot-beta
+& git clone https://github.com/LogInMask/ChatBot-beta
 
-cd ChatBot-beta
+" cd ChatBot-beta
 
-cd ChatBotForAndroid
+' cd ChatBotForAndroid
 
 python3 ChatBot.py
 
