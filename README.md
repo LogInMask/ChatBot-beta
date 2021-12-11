@@ -32,7 +32,7 @@ pkg install git
 
 $ pkg install python3
 
-* git clone https://github.com/LogInMask/ChatBot-beta
+*git clone https://github.com/LogInMask/ChatBot-beta
 
 cd ChatBot-beta
 
