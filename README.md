@@ -17,7 +17,7 @@ This program will be ended early in 20.03.2022!
 But you can test my beta or pre-reliase versions.
 
 # ChatBot-beta-v2 is enabled!
-Today the update of ChatBot-beta
+Today was enabled the update of ChatBot-beta.
 It's the second beta-version of this program!
 You can test it now.
 In this version was added promocodes, some fixed bugs
@@ -28,11 +28,11 @@ You need to write this commands in termux:
 
 apt update -y && apt upgrade -y
 
-~ pkg install git
+@pkg install git
 
-pkg install python3
+$pkg install python3
 
-git clone https://github.com/LogInMask/ChatBot-beta
+&git clone https://github.com/LogInMask/ChatBot-beta
 
 cd ChatBot-beta
 
