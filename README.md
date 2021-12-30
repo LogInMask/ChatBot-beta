@@ -38,7 +38,9 @@ You need to write this commands in termux:
 
 ~ cd ChatBotForAndroid
 
-~ python3 ChatBot.py
+~ ls
+
+~ python3 <file name>
 
 That's all!
 
