@@ -40,7 +40,7 @@ You need to write this commands in termux:
 
 ~ ls
 
-~ python3 <file name>
+~ python3 {file name}
 
 That's all!
 
