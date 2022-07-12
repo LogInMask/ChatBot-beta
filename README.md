@@ -26,21 +26,21 @@ and admin console witch you can use if you input secret promocode!
 # Android install
 You need to write this commands in termux:
 
-~ apt update -y && apt upgrade -y
+`apt update -y && apt upgrade -y`
 
-~ pkg install git
+`pkg install git`
 
-~ pkg install python3
+`pkg install python3`
 
-~ git clone https://github.com/LogInMask/ChatBot-beta
+`git clone https://github.com/LogInMask/ChatBot-beta`
 
-~ cd ChatBot-beta
+`cd ChatBot-beta`
 
-~ cd ChatBotForAndroid
+`cd ChatBotForAndroid`
 
-~ ls
+`ls`
 
-~ python3 {file name}
+`python3 {file name}`
 
 That's all!
 
